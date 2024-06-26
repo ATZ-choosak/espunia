@@ -12,5 +12,8 @@ I2C (Inter-Integrated Circuit; pronounced as “eye-squared-see” or “eye-two
  PCF8574(A) เป็นไอซีใช้สำหรับขยายพอร์ตขาดิจิทัล จำนวน 8 ขา
  ![App Screenshot](https://www.waveshare.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/p/c/pcf8574-io-expansion-board-1.jpg)
 
+ ## Project
+ ![App Screenshot](https://github.com/ATZ-choosak/espunia/assets/52110212/bab5aa1d-c7ee-41be-ad46-e63a30137814)
+
 
 

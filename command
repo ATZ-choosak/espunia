@@ -1,0 +1,1 @@
+lxterminal --command="/bin/bash --init-file  /home/pi/Desktop/espunia/run.sh"
